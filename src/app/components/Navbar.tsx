@@ -1,5 +1,4 @@
 import React from "react";
-import { FaHamburger } from "react-icons/fa";
 import { FaSearch } from "react-icons/fa";
 import { FaBolt } from "react-icons/fa";
 import { FaCartShopping } from "react-icons/fa6";

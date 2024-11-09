@@ -7,8 +7,7 @@ const products = [
     title: "Mexican Roll",
     category: "fixing",
     price: "$36.00",
-    imageUrl:
-      "image/shawwarma 2.avif",
+    imageUrl:"image/shawwarma 2.avif",
     bgColor: "bg-amber-500"
   },
   {
@@ -16,8 +15,7 @@ const products = [
     title: "Family Shawarma",
     category: "fixing",
     price: "$45.00",
-    imageUrl:
-      "image/shawwarma 3.avif",
+    imageUrl:"image/shawwarma 3.avif",
     bgColor: "bg-amber-500",
   },
 
@@ -27,8 +25,7 @@ const products = [
     title: "Shawarma Roll",
     category: "fixing",
     price: "$68.50",
-    imageUrl:
-      "image/shawarma 1.avif",
+    imageUrl:"image/shawarma 1.avif",
     bgColor: "bg-amber-500"
   },
 ];

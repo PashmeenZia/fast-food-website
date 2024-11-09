@@ -25,7 +25,7 @@ const Testimonials = () => {
             <div className='container mx-auto text-center'>
                 <h2 className='text-3xl font-bold mb-6 text-amber-400'>What Our Customers Say</h2>
                 <div className='bg-white shadow-lg rounded-lg p-6 transition duration-200'>
-                    <p className='text-gray-600 italic'>"{testimonials[currentIndex].feedback}"</p>
+                    <p className='text-gray-600 italic'>{testimonials[currentIndex].feedback}</p>
                     <h3 className='text-xl text-blue-900 font-semibold mt-2'>{testimonials[currentIndex].name}</h3>
                 </div>
                 <div className='flex justify-center mt-4'>
