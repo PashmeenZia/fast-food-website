@@ -4,29 +4,30 @@ import React from "react";
 const products = [
   {
     id: 1,
-    title: "Mexican Roll",
+    title: "Mexican burger",
     category: "fixing",
     price: "$36.00",
-    imageUrl:"image/shawwarma 2.avif",
-    bgColor: "bg-amber-500"
+    imageUrl:"https://static.vecteezy.com/system/resources/previews/048/712/534/non_2x/a-burger-with-chicken-and-lettuce-on-it-free-png.png",
+    bgColor: "bg-amber-500",
   },
   {
     id: 2,
-    title: "Family Shawarma",
+    title: "Cheese burger",
     category: "fixing",
     price: "$45.00",
-    imageUrl:"image/shawwarma 3.avif",
+    imageUrl:"https://static.vecteezy.com/system/resources/previews/029/938/215/non_2x/gourmet-burger-veggies-ai-generative-free-png.png",
     bgColor: "bg-amber-500",
   },
 
 
   {
     id: 3,
-    title: "Shawarma Roll",
+    title: "Beef burger",
     category: "fixing",
     price: "$68.50",
-    imageUrl:"image/shawarma 1.avif",
-    bgColor: "bg-amber-500"
+    imageUrl:
+    "https://static.vecteezy.com/system/resources/previews/021/952/459/non_2x/free-tasty-hamburger-on-transparent-background-free-png.png",    
+    bgColor: "bg-amber-500",
   },
 ];
 
